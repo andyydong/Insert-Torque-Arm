@@ -14,12 +14,19 @@ It uses a double four-bar linkage system to better counterbalance your tool weig
 - Look at the Onshape assembly to assist
 - m4, m5 screws and brass inserts are required
 
-Instructions
+###Instructions
 - Follow the Onshape assembly
 - Assemble the arms with the lead screw first
 - Then assemble the other arms
-- Attach arms to the triangular plates
-- Attach both sets of arms to the trapezoid mid plate
+- Attach arms to the triangular plates (use the 14mm pins)
+- Attach both sets of arms to the trapezoid mid plate (use the 14mm pins)
 - Attach springs to plates and lead screw nuts by taking the ring of the extension spring, putting it through the bolt and screwing it down
+
+### Pins
+<img width="510" height="660" alt="image" src="https://github.com/user-attachments/assets/766276cc-96ac-439f-b881-f5c938689eba" />
+
+### Assembly
+The right arms are the mirror of the left side
+<img width="1396" height="776" alt="image" src="https://github.com/user-attachments/assets/56321cd1-27f4-4e40-8318-a7305157e8fd" />
 
 # 
